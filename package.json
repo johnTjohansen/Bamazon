@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "HW 12 - Amazon-like storefront",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnTjohansen/Bamazon.git"
+  },
+  "keywords": [
+    "Bamazon"
+  ],
+  "author": "John Johansen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnTjohansen/Bamazon/issues"
+  },
+  "homepage": "https://github.com/johnTjohansen/Bamazon#readme",
+  "dependencies": {
+    "mysql": "^2.13.0",
+    "prompt": "^1.0.0"
+  }
+}
